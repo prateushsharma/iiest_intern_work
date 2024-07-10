@@ -20,3 +20,4 @@
 ![Ganache](ignore_image_3.png)
 
 ## 5- download metamask extension - https://metamask.io/download/
+![Ganache](ignore_image_4.png)
