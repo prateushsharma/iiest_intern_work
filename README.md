@@ -53,4 +53,6 @@
 
 ## 15- go to - https://www.pinata.cloud/
  ##  create an account and login
+ ## go to api keys section and create new one
+ ![Ganache](ignore_images/ignore_image_13.png)
  
