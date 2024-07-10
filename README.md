@@ -63,3 +63,6 @@
 
 ## after creating copy all the details of the key and store it some where
  ![Ganache](ignore_images/ignore_image_15.png)
+
+ # 16- ` go to src/components/Upload.jsx`
+ ###` in line 62 and 63 replace pinata api key and pinata secret api key which you have copied at step 15`
