@@ -12,28 +12,28 @@
 ## note the RPC SERVER ,its written at the top
 
 ## 4- Click on the key icon at right
-![Ganache](ignore_image_2.png)
+![Ganache](ignore_images/ignore_image_2.png)
 ## You can choose any account
 
 ## After step 4 you will se the private key of the account copy it 
 
-![Ganache](ignore_image_3.png)
+![Ganache](ignore_images/ignore_image_3.png)
 
 ## 5- download metamask extension - https://metamask.io/download/
-![Ganache](ignore_image_4.png)
+![Ganache](ignore_images/ignore_image_4.png)
 
 ## 6-Complete the setup
 
 ### 7- Click here to open available networks
-![Ganache](ignore_image_5.png)
+![Ganache](ignore_images/ignore_image_5.png)
 
 ### 8 - click on Add Network 
-![Ganache](ignore_image_6.png)
+![Ganache](ignore_images/ignore_image_6.png)
 
 ### 9 - Click on Add a network manually
-![Ganache](ignore_image_7.png)
+![Ganache](ignore_images/ignore_image_7.png)
 
 ### 10 - Add the details to connect to ganache network
-![Ganache](ignore_image_8.png)
+![Ganache](ignore_images/ignore_image_8.png)
 
 
