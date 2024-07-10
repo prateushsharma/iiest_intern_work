@@ -1,4 +1,4 @@
-![image](https://github.com/prateushsharma/iiest_prj/assets/115470025/5d81c841-33bd-4517-8b66-4e81cc913c5d)
+
 1-clone this repository
 ## ` git clone https://github.com/prateushsharma/iiest_prj.git `
 2- download dependecies
