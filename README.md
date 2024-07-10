@@ -1,4 +1,4 @@
-
+## ` follow the steps , after completing all the steps you can see you dapp running `
 1-clone this repository
 ## ` git clone https://github.com/prateushsharma/iiest_prj.git `
 2- download dependecies
@@ -90,3 +90,4 @@
 
  ## 19 ` now go to src/componenets/ContractAddress.js  and paste the contract addres which we have just got `
  ## 20-` in step 17 after compiling we have copies the ABI now paste it src/components/ABI.json `
+## 21- type ` npm run ` to start the dapp
