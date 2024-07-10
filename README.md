@@ -7,4 +7,6 @@
 3- Install Ganache 
 ## `To install Ganache- https://archive.trufflesuite.com/ganache/`
 
-![My Image Description](ignore_image_1.png)
+![Ganache](ignore_image_1.png)
+### the accounts shown in your ganache home may be different
+## note the RPC SERVER ,its written at the top
