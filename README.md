@@ -87,3 +87,5 @@
  ## ` now you can see the green tick and some function of the contract `
  ## ` copy the addres of the contract  and store it `
  ![Ganache](ignore_images/ignore_image_20.png)
+
+ ## 19 ` now go to src/componenets/ContractAddress.js  and paste the contract addres which we have just got `
