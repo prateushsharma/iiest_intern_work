@@ -10,3 +10,6 @@
 ![Ganache](ignore_image_1.png)
 ### the accounts shown in your ganache home may be different
 ## note the RPC SERVER ,its written at the top
+
+4- Click on the key icon at right
+![Ganache](ignore_image_2.png)
