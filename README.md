@@ -75,3 +75,15 @@
  ## ` copy paste the contract- you can find contract un components/Contracts/IIEST.sol `
  ## ` compile it - note set the compiler version to 0.8.0 , after compiling copy the ABI and store it `
  ![Ganache](ignore_images/ignore_image_17.png)
+
+ # 18 - ` go to deploy section `
+ ## ` change network to injected metamask provider `
+ # ` note- if you are on any other network in metamask wallet then switch to ganache`
+ ![Ganache](ignore_images/ignore_image_18.png)
+ ## ` now press deploy button `
+ ## ` you will see the metamask pop up `
+ ## ` press confirm to approve the transaction (deployemeny) `
+ ![Ganache](ignore_images/ignore_image_19.png)
+ ## ` now you can see the green tick and some function of the contract `
+ ## ` copy the addres of the contract  and store it `
+ ![Ganache](ignore_images/ignore_image_20.png)
