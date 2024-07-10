@@ -66,3 +66,5 @@
 
  # 16- ` go to src/components/Upload.jsx`
  ###` in line 62 and 63 replace pinata api key and pinata secret api key which you have copied at step 15`
+
+ ![Ganache](ignore_images/ignore_image_16.png)
