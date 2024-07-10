@@ -21,3 +21,8 @@
 
 ## 5- download metamask extension - https://metamask.io/download/
 ![Ganache](ignore_image_4.png)
+
+## 6-Complete the setup
+
+## - Click here to open available networks
+![Ganache](ignore_image_5.png)
