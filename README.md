@@ -72,7 +72,7 @@
  # 17 -` go to https://remix.ethereum.org/ ` now we are going to deploy the contract
  ## ` create a new work space `
  ## `in contracts folder create a new file`
- ## ` copy paste the contract- you can find contract un components/Contracts/IIEST.sol `
+ ## ` copy paste the contract- you can find contract in components/Contracts/IIEST.sol `
  ## ` compile it - note set the compiler version to 0.8.0 , after compiling copy the ABI and store it `
  ![Ganache](ignore_images/ignore_image_17.png)
 
@@ -82,12 +82,12 @@
  ![Ganache](ignore_images/ignore_image_18.png)
  ## ` now press deploy button `
  ## ` you will see the metamask pop up `
- ## ` press confirm to approve the transaction (deployemeny) `
+ ## ` press confirm to approve the transaction (deployement) `
  ![Ganache](ignore_images/ignore_image_19.png)
  ## ` now you can see the green tick and some function of the contract `
  ## ` copy the addres of the contract  and store it `
  ![Ganache](ignore_images/ignore_image_20.png)
 
  ## 19 ` now go to src/componenets/ContractAddress.js  and paste the contract addres which we have just got `
- ## 20-` in step 17 after compiling we have copies the ABI now paste it src/components/ABI.json `
+ ## 20-` in step 17 after compiling we have copied the ABI now paste it src/components/ABI.json `
 ## 21- type ` npm run ` to start the dapp
