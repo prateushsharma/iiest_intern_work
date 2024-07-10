@@ -24,5 +24,10 @@
 
 ## 6-Complete the setup
 
-## - Click here to open available networks
+### 7- Click here to open available networks
 ![Ganache](ignore_image_5.png)
+
+### 8 click on Add Network 
+![Ganache](ignore_image_6.png)
+
+
