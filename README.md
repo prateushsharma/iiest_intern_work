@@ -30,7 +30,10 @@
 ### 8 - click on Add Network 
 ![Ganache](ignore_image_6.png)
 
-### 9 - Click on Add network manually
+### 9 - Click on Add a network manually
 ![Ganache](ignore_image_7.png)
+
+### 10 - Add the details to connect to ganache network
+![Ganache](ignore_image_8.png)
 
 
