@@ -36,4 +36,7 @@
 ### 10 - Add the details to connect to ganache network
 ![Ganache](ignore_images/ignore_image_8.png)
 
+### 11- click to on the dropdown button at the top -accounts
+![Ganache](ignore_images/ignore_image_9.png)
+
 
