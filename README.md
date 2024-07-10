@@ -89,3 +89,4 @@
  ![Ganache](ignore_images/ignore_image_20.png)
 
  ## 19 ` now go to src/componenets/ContractAddress.js  and paste the contract addres which we have just got `
+ ## 20-` in step 17 after compiling we have copies the ABI now paste it src/components/ABI.json `
