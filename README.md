@@ -13,3 +13,4 @@
 
 4- Click on the key icon at right
 ![Ganache](ignore_image_2.png)
+You can choose any account
