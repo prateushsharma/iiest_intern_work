@@ -13,4 +13,8 @@
 
 ## 4- Click on the key icon at right
 ![Ganache](ignore_image_2.png)
-You can choose any account
+## You can choose any account
+
+## After step 4 you will se the private key of the account copy it 
+
+![Ganache](ignore_image_3.png)
