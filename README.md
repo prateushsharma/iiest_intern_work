@@ -68,3 +68,9 @@
  ###` in line 62 and 63 replace pinata api key and pinata secret api key which you have copied at step 15`
 
  ![Ganache](ignore_images/ignore_image_16.png)
+
+ # 17 -` go to https://remix.ethereum.org/ ` now we are going to deploy the contract
+ ##` create a new work space `
+ ##`in contracts folder create a new file`
+ ##` copy paste the contract- you can find contract un components/Contracts/IIEST.sol `
+ ##` compile it - note set the compiler version to 0.8.0 , after compiling copy the ABI and store it `
