@@ -41,3 +41,6 @@
 
 ### 12- click on the add account or hardware wallet
 ![Ganache](ignore_images/ignore_image_10.png)
+
+### 13- click import an account
+![Ganache](ignore_images/ignore_image_11.png)
