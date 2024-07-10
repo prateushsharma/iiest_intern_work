@@ -45,5 +45,8 @@
 ### 13- click import account
 ![Ganache](ignore_images/ignore_image_11.png)
 
-### now paste the private key which we have copies at step 4
+### 14-now paste the private key which we have copies at step 4
 ![Ganache](ignore_images/ignore_image_12.png)
+
+### now after importing you can see your ganache account has been added to the metamask wallet
+### following the same steps 11-14 you can add more ganache accounts in metamask wallet
