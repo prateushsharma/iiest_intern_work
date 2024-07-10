@@ -15,7 +15,7 @@
 ![Ganache](ignore_images/ignore_image_2.png)
 ## You can choose any account
 
-## After step 4 you will se the private key of the account copy it 
+## After step 4 you will see the private key of the account copy it 
 
 ![Ganache](ignore_images/ignore_image_3.png)
 
@@ -42,5 +42,8 @@
 ### 12- click on the add account or hardware wallet
 ![Ganache](ignore_images/ignore_image_10.png)
 
-### 13- click import an account
+### 13- click import account
 ![Ganache](ignore_images/ignore_image_11.png)
+
+### now paste the private key which we have copies at step 4
+![Ganache](ignore_images/ignore_image_12.png)
