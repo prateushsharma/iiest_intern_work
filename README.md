@@ -50,3 +50,7 @@
 
 ## -- now after importing you can see your ganache account has been added to the metamask wallet
 ## --following the same steps 11-14 you can add more ganache accounts in metamask wallet
+
+## 15- go to - https://www.pinata.cloud/
+ ##  create an account and login
+ 
