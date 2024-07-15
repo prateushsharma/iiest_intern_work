@@ -90,4 +90,4 @@
 
  ## 19 ` now go to src/componenets/ContractAddress.js  and paste the contract addres which we have just got `
  ## 20-` in step 17 after compiling we have copied the ABI now paste it src/components/ABI.json `
-## 21- type ` npm run ` to start the dapp
+## 21- type ` npm run start` to start the dapp
