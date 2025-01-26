@@ -1,6 +1,6 @@
 // MyReports.js
 import React, { useState, useEffect } from 'react';
-import VideoCard from './VideoCard';
+import ReviewCard from './Review'; // Use ReviewCard instead of VideoCard
 import { connectWallet } from './ConnectWallet';
 import ABI from './ABI';
 import { ethers } from 'ethers';
@@ -40,7 +40,7 @@ const Reports = () => {
       <div className="row">
         {reportedVideos.map((video, index) => (
           <div className="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" key={index}>
-            <VideoCard
+            <ReviewCard
               videoUrl={video[0]}
               account={video[1]}
               name={video[2]}
