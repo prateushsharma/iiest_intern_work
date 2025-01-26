@@ -39,6 +39,7 @@ const Upload = () => {
   }, []);
 
   const handleSubmit = async (e) => {
+    console.log("Inside Handle Submit");
     e.preventDefault();
     if (file && name && customValue && genre) {
       try {
@@ -59,8 +60,8 @@ const Upload = () => {
           url: "https://api.pinata.cloud/pinning/pinFileToIPFS",
           data: formData,
           headers: {
-            pinata_api_key: `Add your pinata api key`,
-            pinata_secret_api_key: `Add your pinata api secret key`,
+            pinata_api_key: `daf9668748794b12e3a7`,
+            pinata_secret_api_key: `ea807deebc00597b252babb7604d2d3d90698dfb330743ae24b7d36a37c50cf2`,
             "Content-Type": "multipart/form-data",
           },
         });

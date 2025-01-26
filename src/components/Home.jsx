@@ -36,7 +36,7 @@ const metaData = (hash) => {
 const getVideos = async (account) => {
   const signer = await connectWallet();
   if (signer) {            //0x002f1272BA5E1951bF988D918786109c085813d8
-    const contractAddress = '0xf82784b8a89Da52fcD020e5a409010c90704F066'; // Replace with your contract address
+    const contractAddress = CONTRACT_ADDRESS; // Replace with your contract address
     const contract = new ethers.Contract(contractAddress, ABI, signer);
 
     try {
